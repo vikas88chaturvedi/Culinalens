@@ -1,0 +1,7 @@
+{
+  "name": "CulinaLens",
+  "description": "A smart food tracker that identifies dishes from photos, generates recipes, and suggests meals based on ingredients.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
